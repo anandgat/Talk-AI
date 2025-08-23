@@ -50,8 +50,8 @@ export const DashboardSidebar = () => {
     <Sidebar>
       <SidebarHeader className="text-sidebar-accent-foreground">
         <Link href="/" className="flex items-center gap-2 px-2 pt-2">
-          <Image src="/logo.svg" height={36} width={36} alt="Talk.AI" />
-          <p className="text-2xl font-semibold">Talk.AI</p>
+          <Image src="/logo.svg" height={36} width={36} alt="Call.AI" />
+          <p className="text-2xl font-semibold">Call.AI</p>
         </Link>
       </SidebarHeader>
       <div className="px-4 py-2">
